@@ -1,7 +1,0 @@
-D:\workspace\C#\practice-c-sharp\OOP\bin\Debug\OOP.exe.config
-D:\workspace\C#\practice-c-sharp\OOP\bin\Debug\OOP.exe
-D:\workspace\C#\practice-c-sharp\OOP\bin\Debug\OOP.pdb
-D:\workspace\C#\practice-c-sharp\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
-D:\workspace\C#\practice-c-sharp\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
-D:\workspace\C#\practice-c-sharp\OOP\obj\Debug\OOP.exe
-D:\workspace\C#\practice-c-sharp\OOP\obj\Debug\OOP.pdb
